@@ -4,7 +4,7 @@ import retrofit2.Response;
 
 public class Main {
     public static void main(String[] args) {
-        fetchWeatherData("Caloocan");
+        fetchWeatherData("batangas");
     }
 
     private static void fetchWeatherData(String city) {
